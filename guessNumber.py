@@ -1,3 +1,5 @@
+#The following program will generate a random number and user must predict that number in given number of chances.
+#If user fails to get that number then he will lose the game.
 import random
 print("\n\t\t........Welcome to my Guess number Program........")
 n=random.randint(1,11)
