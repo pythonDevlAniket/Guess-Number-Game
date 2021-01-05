@@ -1,7 +1,9 @@
 # Q : Create a registration form which will accept data from user and save it into file
 from tkinter import *
+# importing all classes from tkinter module
 from tkinter import ttk
 from tkinter import messagebox as msg
+# importing messagebox subpackage of tkinter
 from validate_email import validate_email
 # the package 'validate_email" is used to check validation of email
 class Form:
